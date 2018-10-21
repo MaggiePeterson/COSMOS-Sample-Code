@@ -1,0 +1,2 @@
+import cython
+Cython._version_
